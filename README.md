@@ -24,3 +24,6 @@ Bienvenido a Bogo! Una app sencilla e innovadora que te permitirá tener al alca
 - Enviar mensaje por correo electrónico con ayuda de tu celular.
 - Obtener puntos por visitar lugares.
 - Redimir puntos por cupones de descuento y obtener beneficios en distintos lugares.
+
+Para más información visitar [Wiki](https://github.com/maac99/BoGo/wiki)
+
